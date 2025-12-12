@@ -1,0 +1,19 @@
+.me{
+    margin-top: 58px;
+    width: 600px;
+    height: 600px;
+}
+
+.sobre{
+    width: 600px;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.botões{
+    width: 600px;
+    justify-content: center;
+    display: flex;
+    margin-left: -250px;
+    gap: 12px;
+}
